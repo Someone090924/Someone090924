@@ -1,4 +1,4 @@
-- Web Dev 50$
+- Web Dev 50%
 - Cyber security 19%
 - Software Engginer 31%
 
