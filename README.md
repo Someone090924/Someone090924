@@ -1,3 +1,6 @@
+Siswa SMPN 3 Jombang
+
+
 - Web Dev 50%
 - Cyber security 19%
 - Software Engginer 31%
